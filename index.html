@@ -4,8 +4,7 @@
     <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
-    <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
-
+    <script src="vendor/tile.stamen.js"></script>
   </head>
   <style>
     #map {
@@ -18,13 +17,8 @@
   <script>
     var map = L.map('map').setView([41.89, -87.68], 12);
 
-    var OpenStreetMap_HOT = L.tileLayer(
-      'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
-    });
-
-    map.addLayer(OpenStreetMap_HOT);
+    var layer = new L.StamenTileLayer("toner-lite");
+    map.addLayer(layer);
 
     var geoJson = [
   {
