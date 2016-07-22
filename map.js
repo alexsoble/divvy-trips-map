@@ -12,10 +12,10 @@ var myStyle = {
 function highlightFeature(e) {
   var props = e.target.feature.geometry.properties;
 
-  var infoText = '<b>Start: </b>' + props.startStation +
-                 '<br/><br/><b>End: </b>' + props.endStation +
-                 '<br/><br/><b>Frequency: </b>' + props.totalTrips +
-                 '<br/><br/><b>Frequency (opposite way): </b>' + props.oppositeTrips;
+  var infoText = '<b>Start: </b>&nbsp;' + props.startStation +
+                 '<br/><br/><b>End: </b>&nbsp;' + props.endStation +
+                 '<br/><br/><b>Frequency: </b>&nbsp;' + props.totalTrips +
+                 '<br/><br/><b>Frequency (opposite way): </b>&nbsp;' + props.oppositeTrips;
 
 
   info.update({ infoText: infoText });
@@ -46,7 +46,7 @@ mapTitle = L.control({ position: 'topright' });
 
 mapTitle.onAdd = function (map) {
   this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-  this._div.innerHTML = '<b>Divvy Adventure Map</b>';
+  this._div.innerHTML = '<b id="title">Divvy Adventure Map</b>';
   return this._div;
 };
 
