@@ -1,6 +1,11 @@
 var data = [
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Racine Ave & Congress Pkwy",
+      "endStation": "Ashland Ave & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.65703,
@@ -14,6 +19,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Ashland Ave & Harrison St",
+      "endStation": "Ada St & Washington Blvd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6672456361,
@@ -27,6 +37,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Grace St",
+      "endStation": "Sheridan Rd & Irving Park Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.659172,
@@ -40,6 +55,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Broadway & Berwyn Ave",
+      "totalTrips": 12
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -53,6 +73,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Clark St & Berwyn Ave",
+      "totalTrips": 17
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -66,6 +91,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Berwyn Ave",
+      "endStation": "Broadway & Ridge Ave",
+      "totalTrips": 4
+    },
     "coordinates": [
       [
         -87.6680471047,
@@ -79,19 +109,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Sheffield Ave & Kingsbury St",
+      "endStation": "Marshfield Ave & Cortland St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.653106,
@@ -105,6 +127,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Marshfield Ave & Cortland St",
+      "endStation": "Western Ave & Winnebago Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.668879,
@@ -118,6 +145,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Western Ave & Winnebago Ave",
+      "endStation": "Kedzie Ave & Milwaukee Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.687051,
@@ -131,6 +163,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Damen Ave & Pierce Ave",
+      "endStation": "Marshfield Ave & Cortland St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6776919292,
@@ -144,6 +181,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Armitage Ave",
+      "endStation": "Pine Grove Ave & Waveland Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.636282,
@@ -157,6 +199,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Pine Grove Ave & Waveland Ave",
+      "endStation": "Broadway & Wilson Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.646303,
@@ -170,19 +217,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Woodlawn Ave & 55th St",
+      "endStation": "Kimbark Ave & 53rd St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.596471,
@@ -196,6 +235,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Kimbark Ave & 53rd St",
+      "endStation": "Shore Dr & 55th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.594747,
@@ -209,6 +253,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Shore Dr & 55th St",
+      "endStation": "Cornell Ave & Hyde Park Blvd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.580715,
@@ -222,6 +271,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Broadway & Argyle St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -235,6 +289,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakefront Trail & Bryn Mawr Ave",
+      "endStation": "Pine Grove Ave & Irving Park Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6523104689,
@@ -248,6 +307,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Montrose Harbor",
+      "endStation": "Montrose Harbor",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.638181,
@@ -261,6 +325,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Montrose Harbor",
+      "endStation": "Lakefront Trail & Bryn Mawr Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.638181,
@@ -274,6 +343,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakefront Trail & Bryn Mawr Ave",
+      "endStation": "Pine Grove Ave & Waveland Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6523104689,
@@ -287,6 +361,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Sheridan Rd",
+      "endStation": "Broadway & Wilson Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.649993,
@@ -300,6 +379,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakefront Trail & Bryn Mawr Ave",
+      "endStation": "Clarendon Ave & Gordon Ter",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6523104689,
@@ -313,6 +397,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Sheridan Rd",
+      "endStation": "Broadway & Belmont Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.649993,
@@ -326,6 +415,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Belmont Ave",
+      "endStation": "Sedgwick St & Webster Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.645451,
@@ -339,6 +433,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Larrabee St & Armitage Ave",
+      "endStation": "Orleans St & Merchandise Mart Plaza",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.643749,
@@ -352,19 +451,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Berwyn Ave",
+      "endStation": "Broadway & Berwyn Ave",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.6680471047,
@@ -378,6 +469,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Loomis St & Taylor St (*)",
+      "endStation": "Blue Island Ave & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.660996,
@@ -391,19 +487,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clifton Ave & Armitage Ave",
+      "endStation": "Wood St & Milwaukee Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.656936,
@@ -417,6 +505,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wood St & Milwaukee Ave",
+      "endStation": "Damen Ave & Charleston St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.672552,
@@ -430,6 +523,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Leavitt St & Armitage Ave",
+      "endStation": "Humboldt Blvd & Armitage Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.682437,
@@ -443,19 +541,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Thorndale Ave",
+      "endStation": "Clark St & Elmdale Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6601406209,
@@ -469,6 +559,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Elmdale Ave",
+      "endStation": "Broadway & Thorndale Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6695833982,
@@ -482,6 +577,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakefront Trail & Bryn Mawr Ave",
+      "endStation": "Hampden Ct & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6523104689,
@@ -495,6 +595,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Clark St & Winnemac Ave",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -508,6 +613,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Damen Ave & Foster Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -521,32 +631,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wentworth Ave & Archer Ave",
+      "endStation": "Halsted St & 21st St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.631886,
@@ -560,19 +649,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Berwyn Ave",
+      "endStation": "Broadway & Wilson Ave",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.659753,
@@ -586,32 +667,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.659753,
-        41.978353
-      ],
-      [
-        -87.657238,
-        41.965485
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6680471047,
-        41.9779966544
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Michigan Ave & Washington St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.626106,
@@ -625,6 +685,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Millennium Park",
+      "endStation": "Indiana Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.62408432,
@@ -638,19 +703,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Berwyn Ave",
+      "endStation": "Broadway & Ridge Ave",
+      "totalTrips": 4
+    },
     "coordinates": [
       [
         -87.659753,
@@ -664,19 +721,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Berwyn Ave",
+      "endStation": "Broadway & Argyle St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.659753,
@@ -690,6 +739,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Argyle St",
+      "endStation": "Broadway & Ridge Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.659637,
@@ -703,45 +757,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6680471047,
-        41.9779966544
-      ],
-      [
-        -87.6602738295,
-        41.9840446107
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Broadway & Wilson Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -755,6 +775,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Sheridan Rd & Montrose Ave",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.65464,
@@ -768,6 +793,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Michigan Ave & Balbo Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -781,6 +811,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Balbo Ave",
+      "endStation": "Indiana Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623971,
@@ -794,32 +829,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Berwyn Ave",
+      "endStation": "Broadway & Argyle St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6680471047,
@@ -833,6 +847,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Berwyn Ave",
+      "endStation": "Broadway & Thorndale Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.659753,
@@ -846,6 +865,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakefront Trail & Bryn Mawr Ave",
+      "endStation": "Lake Shore Dr & Wellington Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6523104689,
@@ -859,6 +883,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Wellington Ave",
+      "endStation": "Clark St & Wrightwood Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.636794,
@@ -872,6 +901,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakeview Ave & Fullerton Pkwy",
+      "endStation": "Hampden Ct & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.638973,
@@ -885,19 +919,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Berwyn Ave",
+      "endStation": "Clark St & Berwyn Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.659753,
@@ -911,19 +937,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6680471047,
-        41.9779966544
-      ],
-      [
-        -87.6602738295,
-        41.9840446107
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Orleans St & Merchandise Mart Plaza",
+      "endStation": "Orleans St & Merchandise Mart Plaza",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63639,
@@ -937,6 +955,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Clark St & Randolph St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.626106,
@@ -950,6 +973,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "Fort Dearborn Dr & 31st St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623041,
@@ -963,6 +991,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Fort Dearborn Dr & 31st St",
+      "endStation": "Shore Dr & 55th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.608218,
@@ -976,6 +1009,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Shore Dr & 55th St",
+      "endStation": "Woodlawn Ave & 55th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.580715,
@@ -989,6 +1027,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Dearborn St & Monroe St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1002,6 +1045,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 16th St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 11
+    },
     "coordinates": [
       [
         -87.625813,
@@ -1015,6 +1063,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Van Buren St",
+      "endStation": "Daley Center Plaza",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627844,
@@ -1028,6 +1081,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Orleans St & Merchandise Mart Plaza",
+      "endStation": "Larrabee St & Kingsbury St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63639,
@@ -1041,6 +1099,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "Millennium Park",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623041,
@@ -1054,6 +1117,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Washington St",
+      "endStation": "Michigan Ave & Congress Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6246491409,
@@ -1067,19 +1135,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.6246491409,
-        41.8838927658
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Halsted St & 18th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.625961,
@@ -1093,6 +1153,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & 18th St",
+      "endStation": "Blue Island Ave & 18th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.646277,
@@ -1106,6 +1171,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Orleans St & Merchandise Mart Plaza",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1119,19 +1189,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.63639,
-        41.888243
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Orleans St & Merchandise Mart Plaza",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63639,
@@ -1145,6 +1207,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Daley Center Plaza",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1158,6 +1225,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Daley Center Plaza",
+      "endStation": "Larrabee St & Kingsbury St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.629634,
@@ -1171,6 +1243,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Ogden Ave & Chicago Ave",
+      "endStation": "Dearborn St & Monroe St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.6540612729,
@@ -1184,6 +1261,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Dearborn St & Monroe St",
+      "endStation": "Wabash Ave & 8th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.6295209193,
@@ -1197,19 +1279,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.6295209193,
-        41.881319815
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Wabash Ave & 16th St",
+      "totalTrips": 11
+    },
     "coordinates": [
       [
         -87.625961,
@@ -1223,19 +1297,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "LaSalle St & Illinois St",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1249,6 +1315,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "LaSalle St & Illinois St",
+      "endStation": "LaSalle St & Illinois St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63206,
@@ -1262,6 +1333,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "LaSalle St & Illinois St",
+      "endStation": "Dearborn St & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63206,
@@ -1275,6 +1351,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Dearborn St & Monroe St",
+      "endStation": "Ogden Ave & Chicago Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6295209193,
@@ -1288,6 +1369,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "May St & Taylor St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1301,6 +1387,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "May St & Taylor St",
+      "endStation": "Hermitage Ave & Polk St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6554864,
@@ -1314,6 +1405,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Hermitage Ave & Polk St",
+      "endStation": "Paulina St & 18th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.669886,
@@ -1327,6 +1423,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Damen Ave & Coulter St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.661535,
@@ -1340,6 +1441,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "900 W Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1353,6 +1459,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "900 W Harrison St",
+      "endStation": "Morgan St & Lake St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.650019,
@@ -1366,6 +1477,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Dearborn St & Monroe St",
+      "endStation": "Dearborn St & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6295209193,
@@ -1379,6 +1495,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Wabash Ave & 8th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1392,6 +1513,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "Lake Shore Dr & Ohio St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623041,
@@ -1405,6 +1531,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Ohio St",
+      "endStation": "Indiana Ave & Roosevelt Rd",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.614492,
@@ -1418,6 +1549,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Racine Ave & Congress Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.626106,
@@ -1431,71 +1567,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.626106,
-        41.871962
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.63206,
-        41.890749
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.63206,
-        41.890749
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "State St & Kinzie St",
+      "endStation": "Wabash Ave & 8th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6277,
@@ -1509,19 +1585,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.646277,
-        41.857499
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Loomis St & Taylor St (*)",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.661535,
@@ -1535,6 +1603,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Loomis St & Taylor St (*)",
+      "endStation": "Loomis St & Jackson Blvd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.660996,
@@ -1548,6 +1621,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Loomis St & Jackson Blvd",
+      "endStation": "Damen Ave & Cortland St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.662007,
@@ -1561,6 +1639,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Damen Ave & Pierce Ave",
+      "endStation": "Damen Ave & Chicago Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6776919292,
@@ -1574,32 +1657,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6540612729,
-        41.896362458
-      ],
-      [
-        -87.6295209193,
-        41.881319815
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6295209193,
-        41.881319815
-      ],
-      [
-        -87.626106,
-        41.871962
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Clinton St & 18th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.625961,
@@ -1613,6 +1675,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clinton St & 18th St",
+      "endStation": "Blue Island Ave & 18th St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.640826,
@@ -1626,6 +1693,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Halsted St & 18th St",
+      "totalTrips": 5
+    },
     "coordinates": [
       [
         -87.661535,
@@ -1639,6 +1711,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & 18th St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.646277,
@@ -1652,19 +1729,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.629634,
-        41.884241
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 6
+    },
     "coordinates": [
       [
         -87.623041,
@@ -1678,6 +1747,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.616743,
@@ -1691,6 +1765,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Paulina St & Montrose Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -1704,6 +1783,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Damen Ave & Cullerton St",
+      "endStation": "Halsted St & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.675726,
@@ -1717,6 +1801,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & 18th St",
+      "endStation": "Wabash Ave & 16th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.646277,
@@ -1730,19 +1819,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.623041,
-        41.867888
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Lake Shore Dr & Wellington Ave",
+      "totalTrips": 5
+    },
     "coordinates": [
       [
         -87.616743,
@@ -1756,6 +1837,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Wellington Ave",
+      "endStation": "Wilton Ave & Belmont Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.636794,
@@ -1769,19 +1855,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.623041,
-        41.867888
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Lake Shore Dr & Ohio St",
+      "totalTrips": 5
+    },
     "coordinates": [
       [
         -87.616743,
@@ -1795,6 +1873,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Oak St",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.62377664,
@@ -1808,6 +1891,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -1821,6 +1909,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Oak St",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.62377664,
@@ -1834,6 +1927,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Museum Campus",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.616743,
@@ -1847,6 +1945,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 6
+    },
     "coordinates": [
       [
         -87.625961,
@@ -1860,19 +1963,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.640826,
-        41.85795
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clinton St & 18th St",
+      "endStation": "Morgan St & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.640826,
@@ -1886,6 +1981,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.661535,
@@ -1899,32 +1999,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "Michigan Ave & Oak St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623041,
@@ -1938,19 +2017,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.62377664,
-        41.90096039
-      ],
-      [
-        -87.630834,
-        41.926277
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Clarendon Ave & Leland Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -1964,6 +2035,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clarendon Ave & Leland Ave",
+      "endStation": "Clark St & Winnemac Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.650001,
@@ -1977,19 +2053,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clinton St & 18th St",
+      "endStation": "Racine Ave & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.640826,
@@ -2003,19 +2071,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.661535,
-        41.857556
-      ],
-      [
-        -87.646277,
-        41.857499
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clinton St & 18th St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.640826,
@@ -2029,6 +2089,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "900 W Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627716,
@@ -2042,6 +2107,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "900 W Harrison St",
+      "endStation": "Hermitage Ave & Polk St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.650019,
@@ -2055,6 +2125,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "McClurg Ct & Illinois St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623041,
@@ -2068,6 +2143,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Grand Ave",
+      "endStation": "Wabash Ave & 8th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.626937,
@@ -2081,6 +2161,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Greenwood Ave & 47th St",
+      "endStation": "Wabash Ave & 16th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.599383,
@@ -2094,6 +2179,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 16th St",
+      "endStation": "Wabash Ave & 16th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625813,
@@ -2107,6 +2197,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Blue Island Ave & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.661535,
@@ -2120,71 +2215,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.661535,
-        41.857556
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.669886,
-        41.871514
-      ],
-      [
-        -87.668745,
-        41.857901
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.661535,
-        41.857556
-      ],
-      [
-        -87.646277,
-        41.857499
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & 18th St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.646277,
@@ -2198,6 +2233,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Franklin St & Lake St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.626106,
@@ -2211,6 +2251,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Racine Ave & Congress Pkwy",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.65703,
@@ -2224,6 +2269,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Broadway & Waveland Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -2237,32 +2287,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.623041,
-        41.867888
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.614492,
-        41.89257
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Morgan St & 18th St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.651073,
@@ -2276,19 +2305,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Greenwood Ave & 47th St",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.599383,
@@ -2302,19 +2323,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.630834,
-        41.926277
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Lincoln Ave & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -2328,6 +2341,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lincoln Ave & Diversey Pkwy",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.658617,
@@ -2341,6 +2359,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.630834,
@@ -2354,6 +2377,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wilton Ave & Diversey Pkwy",
+      "endStation": "Lincoln Ave & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.652705,
@@ -2367,6 +2395,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lincoln Ave & Diversey Pkwy",
+      "endStation": "Racine Ave & Belmont Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.658617,
@@ -2380,6 +2413,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.627716,
@@ -2393,32 +2431,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Damen Ave & Cullerton St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.661535,
@@ -2432,19 +2449,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.627716,
-        41.874053
-      ],
-      [
-        -87.627716,
-        41.874053
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "Dearborn St & Adams St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.627716,
@@ -2458,6 +2467,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Dearborn St & Adams St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6297910363,
@@ -2471,6 +2485,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625961,
@@ -2484,6 +2503,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Sheffield Ave & Wellington Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -2497,6 +2521,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Wellington Ave",
+      "endStation": "Clark St & Wellington Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6475386582,
@@ -2510,6 +2539,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Wellington Ave",
+      "endStation": "Damen Ave & Cortland St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6475386582,
@@ -2523,6 +2557,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Damen Ave & Cortland St",
+      "endStation": "California Ave & Milwaukee Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.677411,
@@ -2536,6 +2575,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "California Ave & Milwaukee Ave",
+      "endStation": "Noble St & Milwaukee Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.697153,
@@ -2549,6 +2593,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Noble St & Milwaukee Ave",
+      "endStation": "Orleans St & Merchandise Mart Plaza",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6626,
@@ -2562,6 +2611,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Kinzie St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 4
+    },
     "coordinates": [
       [
         -87.6277,
@@ -2575,6 +2629,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Randolph St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6277335692,
@@ -2588,32 +2647,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.623041,
-        41.867888
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.614492,
-        41.89257
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Ohio St",
+      "endStation": "Sheffield Ave & Addison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.614492,
@@ -2627,6 +2665,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wilton Ave & Diversey Pkwy",
+      "endStation": "Sheffield Ave & Fullerton Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.652705,
@@ -2640,19 +2683,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 16th St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625813,
@@ -2666,32 +2701,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 8
+    },
     "coordinates": [
       [
         -87.625961,
@@ -2705,32 +2719,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.614492,
-        41.89257
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.614492,
-        41.89257
-      ],
-      [
-        -87.623041,
-        41.867888
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "Ashland Ave & Division St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627716,
@@ -2744,6 +2737,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Ashland Ave & Division St",
+      "endStation": "Michigan Ave & Washington St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.667747,
@@ -2757,6 +2755,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "Franklin St & Lake St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627716,
@@ -2770,6 +2773,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Orleans St & Merchandise Mart Plaza",
+      "endStation": "Greenwood Ave & 47th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63639,
@@ -2783,6 +2791,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Greenwood Ave & 47th St",
+      "endStation": "State St & 19th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.599383,
@@ -2796,6 +2809,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & 19th St",
+      "endStation": "Halsted St & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627542,
@@ -2809,19 +2827,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.646277,
-        41.857499
-      ],
-      [
-        -87.661535,
-        41.857556
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Blue Island Ave & 18th St",
+      "endStation": "Wabash Ave & 16th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.661535,
@@ -2835,19 +2845,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Morgan St & 18th St",
+      "endStation": "Blue Island Ave & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.651073,
@@ -2861,32 +2863,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.661535,
-        41.857556
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.626106,
-        41.871962
-      ],
-      [
-        -87.6355,
-        41.885837
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Randolph St",
+      "endStation": "Clark St & Randolph St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63188991,
@@ -2900,6 +2881,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & 14th St",
+      "endStation": "Clinton St & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623727,
@@ -2913,32 +2899,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.640826,
-        41.85795
-      ],
-      [
-        -87.661535,
-        41.857556
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.661535,
-        41.857556
-      ],
-      [
-        -87.646277,
-        41.857499
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & 18th St",
+      "endStation": "Wabash Ave & 8th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.646277,
@@ -2952,32 +2917,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.623041,
-        41.867888
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.630834,
-        41.926277
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Broadway & Belmont Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -2991,6 +2935,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Belmont Ave",
+      "endStation": "Pine Grove Ave & Waveland Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.645451,
@@ -3004,6 +2953,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Barry Ave",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.644095,
@@ -3017,6 +2971,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.630834,
@@ -3030,6 +2989,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Indiana Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.616743,
@@ -3043,6 +3007,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Indiana Ave & Roosevelt Rd",
+      "endStation": "Cannon Dr & Fullerton Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623041,
@@ -3056,6 +3025,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Cannon Dr & Fullerton Ave",
+      "endStation": "Sheridan Rd & Montrose Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6344287848,
@@ -3069,6 +3043,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Sheridan Rd & Montrose Ave",
+      "endStation": "Paulina St & Montrose Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.65464,
@@ -3082,6 +3061,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Paulina St & Montrose Ave",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.671387,
@@ -3095,6 +3079,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Theater on the Lake",
+      "endStation": "Indiana Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.630834,
@@ -3108,6 +3097,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 8th St",
+      "endStation": "Dearborn St & Adams St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.626106,
@@ -3121,6 +3115,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Jackson Blvd",
+      "endStation": "Lakeview Ave & Fullerton Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.62408,
@@ -3134,6 +3133,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lakeview Ave & Fullerton Pkwy",
+      "endStation": "Lake Shore Dr & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.638973,
@@ -3147,6 +3151,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Diversey Pkwy",
+      "endStation": "Sheridan Rd & Montrose Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63625,
@@ -3160,6 +3169,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Blue Island Ave & 18th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625961,
@@ -3173,19 +3187,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.661535,
-        41.857556
-      ],
-      [
-        -87.646277,
-        41.857499
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & 18th St",
+      "endStation": "Indiana Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.646277,
@@ -3199,6 +3205,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Museum Campus",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.617759,
@@ -3212,19 +3223,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Clark St & North Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.616743,
@@ -3238,6 +3241,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & North Ave",
+      "endStation": "Clark St & North Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.631942,
@@ -3251,6 +3259,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.616743,
@@ -3264,19 +3277,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Greenwood Ave & 47th St",
+      "endStation": "Michigan Ave & Oak St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.599383,
@@ -3290,6 +3295,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Oak St",
+      "endStation": "Lake Shore Dr & Wellington Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.62377664,
@@ -3303,6 +3313,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Cannon Dr & Fullerton Ave",
+      "endStation": "Lake Shore Dr & Ohio St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6344287848,
@@ -3316,6 +3331,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Ohio St",
+      "endStation": "Lake Shore Dr & Wellington Ave",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.614492,
@@ -3329,6 +3349,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Wellington Ave",
+      "endStation": "Lake Shore Dr & Ohio St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.636794,
@@ -3342,6 +3367,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Ohio St",
+      "endStation": "Wabash Ave & Roosevelt Rd",
+      "totalTrips": 3
+    },
     "coordinates": [
       [
         -87.614492,
@@ -3355,6 +3385,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Ashland Ave & Wellington Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625961,
@@ -3368,6 +3403,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Ashland Ave & Wellington Ave",
+      "endStation": "Southport Ave & Roscoe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.669807,
@@ -3381,71 +3421,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.636794,
-        41.936669
-      ],
-      [
-        -87.614492,
-        41.89257
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.636794,
-        41.936669
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Cannon Dr & Fullerton Ave",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6344287848,
@@ -3459,58 +3439,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.636794,
-        41.936669
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.636794,
-        41.936669
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Cannon Dr & Fullerton Ave",
+      "endStation": "Cannon Dr & Fullerton Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6344287848,
@@ -3524,6 +3457,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "California Ave & 21st St",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.695445,
@@ -3537,19 +3475,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Lake Shore Dr & Ohio St",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.625961,
@@ -3563,58 +3493,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.614492,
-        41.89257
-      ],
-      [
-        -87.636794,
-        41.936669
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.614492,
-        41.89257
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.614492,
-        41.89257
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & 16th St",
+      "endStation": "Millennium Park",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625813,
@@ -3628,6 +3511,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Van Buren St",
+      "endStation": "Lake Shore Dr & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627844,
@@ -3641,19 +3529,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.636794,
-        41.936669
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Wellington Ave",
+      "endStation": "Michigan Ave & Oak St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.636794,
@@ -3667,6 +3547,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & Oak St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.62377664,
@@ -3680,6 +3565,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Michigan Ave & 14th St",
+      "endStation": "Franklin St & Lake St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.623727,
@@ -3693,19 +3583,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.614492,
-        41.89257
-      ],
-      [
-        -87.636794,
-        41.936669
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Sedgwick St & Webster Ave",
+      "endStation": "Sedgwick St & North Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.638888,
@@ -3719,6 +3601,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "Union Ave & Grand Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627716,
@@ -3732,6 +3619,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Union Ave & Grand Ave",
+      "endStation": "Ashland Ave & Division St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.645925,
@@ -3745,6 +3637,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wood St & Milwaukee Ave",
+      "endStation": "Western Ave & Winnebago Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.672552,
@@ -3758,6 +3655,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Western Ave & Winnebago Ave",
+      "endStation": "Damen Ave & Augusta Blvd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.687051,
@@ -3771,6 +3673,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Damen Ave & Augusta Blvd",
+      "endStation": "Halsted St & Polk St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.677234,
@@ -3784,6 +3691,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Halsted St & Polk St",
+      "endStation": "State St & Harrison St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.64664,
@@ -3797,6 +3709,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "Ogden Ave & Chicago Ave",
+      "totalTrips": 2
+    },
     "coordinates": [
       [
         -87.627716,
@@ -3810,6 +3727,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Ogden Ave & Chicago Ave",
+      "endStation": "Desplaines St & Kinzie St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6540612729,
@@ -3823,19 +3745,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Hampden Ct & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.616743,
@@ -3849,32 +3763,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lake Shore Dr & Monroe St",
+      "endStation": "Michigan Ave & Pearson St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.616743,
@@ -3888,6 +3781,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wabash Ave & Roosevelt Rd",
+      "endStation": "Sheridan Rd & Irving Park Rd",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.625961,
@@ -3901,6 +3799,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Grace St",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.659172,
@@ -3914,32 +3817,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.630834,
-        41.926277
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Hampden Ct & Diversey Pkwy",
+      "endStation": "Theater on the Lake",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.642385,
@@ -3953,110 +3835,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.630834,
-        41.926277
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.616743,
-        41.880958
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.616743,
-        41.880958
-      ],
-      [
-        -87.614492,
-        41.89257
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6277,
-        41.88918
-      ],
-      [
-        -87.627716,
-        41.874053
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625813,
-        41.860384
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625813,
-        41.860384
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "State St & Harrison St",
+      "endStation": "Dearborn St & Monroe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.627716,
@@ -4070,32 +3853,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6277,
-        41.88918
-      ],
-      [
-        -87.627716,
-        41.874053
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.627716,
-        41.874053
-      ],
-      [
-        -87.627716,
-        41.874053
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "California Ave & Milwaukee Ave",
+      "endStation": "Damen Ave & Cortland St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.697153,
@@ -4109,6 +3871,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Damen Ave & Cortland St",
+      "endStation": "Clifton Ave & Armitage Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.677411,
@@ -4122,6 +3889,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Clifton Ave & Armitage Ave",
+      "endStation": "Wilton Ave & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.656936,
@@ -4135,19 +3907,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.627716,
-        41.874053
-      ],
-      [
-        -87.6540612729,
-        41.896362458
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Ogden Ave & Chicago Ave",
+      "endStation": "State St & Kinzie St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6540612729,
@@ -4161,32 +3925,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6277,
-        41.88918
-      ],
-      [
-        -87.627716,
-        41.874053
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.627716,
-        41.874053
-      ],
-      [
-        -87.6297910363,
-        41.8793563587
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Millennium Park",
+      "endStation": "Lake Shore Dr & Ohio St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.62408432,
@@ -4200,58 +3943,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.614492,
-        41.89257
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.625961,
-        41.867227
-      ],
-      [
-        -87.625961,
-        41.867227
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659637,
-        41.972972
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Larrabee St & Armitage Ave",
+      "endStation": "Hampden Ct & Diversey Pkwy",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.643749,
@@ -4265,58 +3961,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6680471047,
-        41.9779966544
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.659753,
-        41.978353
-      ],
-      [
-        -87.6602738295,
-        41.9840446107
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Clark St & Randolph St",
+      "endStation": "Wabash Ave & 8th St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.63188991,
@@ -4330,6 +3979,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Wilson Ave",
+      "endStation": "Broadway & Wilson Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.657238,
@@ -4343,6 +3997,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Wilson Ave",
+      "endStation": "Broadway & Argyle St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.657238,
@@ -4356,71 +4015,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.659753,
-        41.978353
-      ],
-      [
-        -87.6602738295,
-        41.9840446107
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.659753,
-        41.978353
-      ],
-      [
-        -87.6602738295,
-        41.9840446107
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Lakefront Trail & Bryn Mawr Ave",
+      "endStation": "Southport Ave & Roscoe St",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6523104689,
@@ -4434,6 +4033,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Wilton Ave & Belmont Ave",
+      "endStation": "Lake Shore Dr & Belmont Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.65304,
@@ -4447,71 +4051,11 @@ var data = [
   },
   {
     "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.659753,
-        41.978353
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.668365,
-        41.973385
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Broadway & Ridge Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -4525,6 +4069,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Broadway & Ridge Ave",
+      "endStation": "Ravenswood Ave & Montrose Ave (*)",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.6602738295,
@@ -4538,6 +4087,11 @@ var data = [
   },
   {
     "type": "LineString",
+    "properties": {
+      "startStation": "Ravenswood Ave & Montrose Ave (*)",
+      "endStation": "Broadway & Wilson Ave",
+      "totalTrips": 1
+    },
     "coordinates": [
       [
         -87.674365,
@@ -4548,44 +4102,5 @@ var data = [
         41.965485
       ]
     ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6680471047,
-        41.9779966544
-      ],
-      [
-        -87.6602738295,
-        41.9840446107
-      ]
-    ]
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -87.6602738295,
-        41.9840446107
-      ],
-      [
-        -87.6680471047,
-        41.9779966544
-      ]
-    ]
   }
-];
+]
