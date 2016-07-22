@@ -36,10 +36,21 @@ info.onAdd = function (map) {
 };
 
 info.update = function (props) {
-  this._div.innerHTML = (props ? props.infoText : null);
+  this._div.innerHTML = (props ? props.infoText : 'Hover over any trip.');
 };
 
 info.addTo(map);
+
+
+mapTitle = L.control({ position: 'topright' });
+
+mapTitle.onAdd = function (map) {
+  this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+  this._div.innerHTML = '<b>Divvy Adventure Map</b>';
+  return this._div;
+};
+
+mapTitle.addTo(map);
 
 L.geoJson(data, {
   style: myStyle,
