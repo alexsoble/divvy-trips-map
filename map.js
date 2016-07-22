@@ -14,7 +14,9 @@ function highlightFeature(e) {
 
   var infoText = '<b>Start: </b>' + props.startStation +
                  '<br/><br/><b>End: </b>' + props.endStation +
-                 '<br/><br/><b>Frequency: </b>' + props.totalTrips;
+                 '<br/><br/><b>Frequency: </b>' + props.totalTrips +
+                 '<br/><br/><b>Frequency (opposite way): </b>' + props.oppositeTrips;
+
 
   info.update({ infoText: infoText });
 }
