@@ -1,4 +1,4 @@
-var map = L.map('map').setView([41.89, -87.68], 12);
+var map = L.map('map').setView([41.89, -87.61], 12);
 
 var layer = new L.StamenTileLayer("toner-lite");
 map.addLayer(layer);
