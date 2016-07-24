@@ -5,7 +5,10 @@ var data = [
       "startStation": "Ravenswood Ave & Montrose Ave (*)",
       "endStation": "Broadway & Wilson Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/20/2016"
+      ]
     },
     "coordinates": [
       [
@@ -24,7 +27,10 @@ var data = [
       "startStation": "Ashland Ave & Harrison St",
       "endStation": "Ada St & Washington Blvd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/01/2016"
+      ]
     },
     "coordinates": [
       [
@@ -43,7 +49,10 @@ var data = [
       "startStation": "Clark St & Grace St",
       "endStation": "Sheridan Rd & Irving Park Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/01/2016"
+      ]
     },
     "coordinates": [
       [
@@ -62,7 +71,10 @@ var data = [
       "startStation": "Wabash Ave & Roosevelt Rd",
       "endStation": "Ashland Ave & Wellington Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/08/2013"
+      ]
     },
     "coordinates": [
       [
@@ -81,7 +93,10 @@ var data = [
       "startStation": "Ashland Ave & Wellington Ave",
       "endStation": "Southport Ave & Roscoe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/08/2013"
+      ]
     },
     "coordinates": [
       [
@@ -100,7 +115,10 @@ var data = [
       "startStation": "Cannon Dr & Fullerton Ave",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/09/2013"
+      ]
     },
     "coordinates": [
       [
@@ -119,7 +137,10 @@ var data = [
       "startStation": "Cannon Dr & Fullerton Ave",
       "endStation": "Cannon Dr & Fullerton Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -138,7 +159,10 @@ var data = [
       "startStation": "California Ave & 21st St",
       "endStation": "Lake Shore Dr & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -157,7 +181,10 @@ var data = [
       "startStation": "Wabash Ave & 16th St",
       "endStation": "Millennium Park",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/19/2013"
+      ]
     },
     "coordinates": [
       [
@@ -176,7 +203,10 @@ var data = [
       "startStation": "State St & Van Buren St",
       "endStation": "Lake Shore Dr & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/20/2013"
+      ]
     },
     "coordinates": [
       [
@@ -195,7 +225,10 @@ var data = [
       "startStation": "Michigan Ave & Oak St",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/20/2013"
+      ]
     },
     "coordinates": [
       [
@@ -214,7 +247,10 @@ var data = [
       "startStation": "Michigan Ave & 14th St",
       "endStation": "Franklin St & Lake St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -233,7 +269,10 @@ var data = [
       "startStation": "Sedgwick St & Webster Ave",
       "endStation": "Sedgwick St & North Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -252,7 +291,10 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "Union Ave & Grand Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/22/2013"
+      ]
     },
     "coordinates": [
       [
@@ -271,7 +313,10 @@ var data = [
       "startStation": "Union Ave & Grand Ave",
       "endStation": "Ashland Ave & Division St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/22/2013"
+      ]
     },
     "coordinates": [
       [
@@ -290,7 +335,10 @@ var data = [
       "startStation": "Wood St & Milwaukee Ave",
       "endStation": "Western Ave & Winnebago Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/22/2013"
+      ]
     },
     "coordinates": [
       [
@@ -309,7 +357,10 @@ var data = [
       "startStation": "Western Ave & Winnebago Ave",
       "endStation": "Damen Ave & Augusta Blvd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/22/2013"
+      ]
     },
     "coordinates": [
       [
@@ -328,7 +379,10 @@ var data = [
       "startStation": "Damen Ave & Augusta Blvd",
       "endStation": "Halsted St & Polk St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/22/2013"
+      ]
     },
     "coordinates": [
       [
@@ -347,7 +401,10 @@ var data = [
       "startStation": "Halsted St & Polk St",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/22/2013"
+      ]
     },
     "coordinates": [
       [
@@ -366,7 +423,10 @@ var data = [
       "startStation": "Ogden Ave & Chicago Ave",
       "endStation": "Desplaines St & Kinzie St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/23/2013"
+      ]
     },
     "coordinates": [
       [
@@ -385,7 +445,10 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Hampden Ct & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/23/2013"
+      ]
     },
     "coordinates": [
       [
@@ -404,7 +467,10 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Michigan Ave & Pearson St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -423,7 +489,10 @@ var data = [
       "startStation": "Wabash Ave & Roosevelt Rd",
       "endStation": "Sheridan Rd & Irving Park Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -442,7 +511,10 @@ var data = [
       "startStation": "Clark St & Grace St",
       "endStation": "Theater on the Lake",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -461,7 +533,10 @@ var data = [
       "startStation": "Hampden Ct & Diversey Pkwy",
       "endStation": "Theater on the Lake",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -480,7 +555,10 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "Dearborn St & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -499,7 +577,10 @@ var data = [
       "startStation": "Damen Ave & Cortland St",
       "endStation": "Clifton Ave & Armitage Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -518,7 +599,10 @@ var data = [
       "startStation": "Clifton Ave & Armitage Ave",
       "endStation": "Wilton Ave & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -537,7 +621,10 @@ var data = [
       "startStation": "Ogden Ave & Chicago Ave",
       "endStation": "State St & Kinzie St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/29/2013"
+      ]
     },
     "coordinates": [
       [
@@ -556,7 +643,10 @@ var data = [
       "startStation": "Millennium Park",
       "endStation": "Lake Shore Dr & Ohio St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -575,7 +665,10 @@ var data = [
       "startStation": "Larrabee St & Armitage Ave",
       "endStation": "Hampden Ct & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/03/2016"
+      ]
     },
     "coordinates": [
       [
@@ -594,7 +687,10 @@ var data = [
       "startStation": "Broadway & Wilson Ave",
       "endStation": "Broadway & Wilson Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -613,7 +709,10 @@ var data = [
       "startStation": "Broadway & Wilson Ave",
       "endStation": "Broadway & Argyle St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -632,7 +731,10 @@ var data = [
       "startStation": "Lakefront Trail & Bryn Mawr Ave",
       "endStation": "Southport Ave & Roscoe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/10/2016"
+      ]
     },
     "coordinates": [
       [
@@ -651,7 +753,10 @@ var data = [
       "startStation": "Wilton Ave & Belmont Ave",
       "endStation": "Lake Shore Dr & Belmont Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/10/2016"
+      ]
     },
     "coordinates": [
       [
@@ -670,7 +775,10 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Broadway & Ridge Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/20/2016"
+      ]
     },
     "coordinates": [
       [
@@ -689,7 +797,10 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Ravenswood Ave & Montrose Ave (*)",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "07/20/2016"
+      ]
     },
     "coordinates": [
       [
@@ -708,7 +819,10 @@ var data = [
       "startStation": "Racine Ave & Congress Pkwy",
       "endStation": "Ashland Ave & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/01/2016"
+      ]
     },
     "coordinates": [
       [
@@ -727,7 +841,10 @@ var data = [
       "startStation": "Sheffield Ave & Kingsbury St",
       "endStation": "Marshfield Ave & Cortland St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -746,7 +863,10 @@ var data = [
       "startStation": "Marshfield Ave & Cortland St",
       "endStation": "Western Ave & Winnebago Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -765,7 +885,10 @@ var data = [
       "startStation": "Western Ave & Winnebago Ave",
       "endStation": "Kedzie Ave & Milwaukee Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -784,7 +907,10 @@ var data = [
       "startStation": "Damen Ave & Pierce Ave",
       "endStation": "Marshfield Ave & Cortland St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -803,7 +929,10 @@ var data = [
       "startStation": "Clark St & Armitage Ave",
       "endStation": "Pine Grove Ave & Waveland Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -822,7 +951,10 @@ var data = [
       "startStation": "Pine Grove Ave & Waveland Ave",
       "endStation": "Broadway & Wilson Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -841,7 +973,10 @@ var data = [
       "startStation": "Woodlawn Ave & 55th St",
       "endStation": "Kimbark Ave & 53rd St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/10/2016"
+      ]
     },
     "coordinates": [
       [
@@ -860,7 +995,10 @@ var data = [
       "startStation": "Kimbark Ave & 53rd St",
       "endStation": "Shore Dr & 55th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/10/2016"
+      ]
     },
     "coordinates": [
       [
@@ -879,7 +1017,10 @@ var data = [
       "startStation": "Shore Dr & 55th St",
       "endStation": "Cornell Ave & Hyde Park Blvd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/10/2016"
+      ]
     },
     "coordinates": [
       [
@@ -898,7 +1039,10 @@ var data = [
       "startStation": "Lakefront Trail & Bryn Mawr Ave",
       "endStation": "Pine Grove Ave & Irving Park Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/11/2016"
+      ]
     },
     "coordinates": [
       [
@@ -917,7 +1061,10 @@ var data = [
       "startStation": "Montrose Harbor",
       "endStation": "Montrose Harbor",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/12/2016"
+      ]
     },
     "coordinates": [
       [
@@ -936,7 +1083,10 @@ var data = [
       "startStation": "Montrose Harbor",
       "endStation": "Lakefront Trail & Bryn Mawr Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/12/2016"
+      ]
     },
     "coordinates": [
       [
@@ -955,7 +1105,10 @@ var data = [
       "startStation": "Lakefront Trail & Bryn Mawr Ave",
       "endStation": "Pine Grove Ave & Waveland Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/13/2016"
+      ]
     },
     "coordinates": [
       [
@@ -974,7 +1127,10 @@ var data = [
       "startStation": "Broadway & Sheridan Rd",
       "endStation": "Broadway & Wilson Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/13/2016"
+      ]
     },
     "coordinates": [
       [
@@ -993,7 +1149,10 @@ var data = [
       "startStation": "Lakefront Trail & Bryn Mawr Ave",
       "endStation": "Clarendon Ave & Gordon Ter",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/14/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1012,7 +1171,10 @@ var data = [
       "startStation": "Broadway & Sheridan Rd",
       "endStation": "Broadway & Belmont Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/14/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1031,7 +1193,10 @@ var data = [
       "startStation": "Broadway & Belmont Ave",
       "endStation": "Sedgwick St & Webster Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/14/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1050,7 +1215,10 @@ var data = [
       "startStation": "Larrabee St & Armitage Ave",
       "endStation": "Orleans St & Merchandise Mart Plaza",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/14/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1069,7 +1237,11 @@ var data = [
       "startStation": "Loomis St & Taylor St (*)",
       "endStation": "Blue Island Ave & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "06/16/2016",
+        "10/02/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1088,7 +1260,10 @@ var data = [
       "startStation": "Clifton Ave & Armitage Ave",
       "endStation": "Wood St & Milwaukee Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/18/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1107,7 +1282,10 @@ var data = [
       "startStation": "Wood St & Milwaukee Ave",
       "endStation": "Damen Ave & Charleston St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/18/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1126,7 +1304,10 @@ var data = [
       "startStation": "Leavitt St & Armitage Ave",
       "endStation": "Humboldt Blvd & Armitage Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/18/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1145,7 +1326,11 @@ var data = [
       "startStation": "Broadway & Thorndale Ave",
       "endStation": "Clark St & Elmdale Ave",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "06/21/2016",
+        "06/21/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1164,7 +1349,10 @@ var data = [
       "startStation": "Lakefront Trail & Bryn Mawr Ave",
       "endStation": "Hampden Ct & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/21/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1183,7 +1371,10 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Damen Ave & Foster Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/22/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1202,7 +1393,10 @@ var data = [
       "startStation": "Wentworth Ave & Archer Ave",
       "endStation": "Halsted St & 21st St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/25/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1221,7 +1415,11 @@ var data = [
       "startStation": "Millennium Park",
       "endStation": "Indiana Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "05/19/2016",
+        "12/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1240,7 +1438,10 @@ var data = [
       "startStation": "Broadway & Berwyn Ave",
       "endStation": "Broadway & Argyle St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/21/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1259,7 +1460,10 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Broadway & Wilson Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/22/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1278,7 +1482,10 @@ var data = [
       "startStation": "Sheridan Rd & Montrose Ave",
       "endStation": "Theater on the Lake",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/22/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1297,7 +1504,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Michigan Ave & Balbo Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/22/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1316,7 +1526,10 @@ var data = [
       "startStation": "Michigan Ave & Balbo Ave",
       "endStation": "Indiana Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/22/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1335,7 +1548,10 @@ var data = [
       "startStation": "Clark St & Berwyn Ave",
       "endStation": "Broadway & Argyle St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/25/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1354,7 +1570,10 @@ var data = [
       "startStation": "Broadway & Berwyn Ave",
       "endStation": "Broadway & Thorndale Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/25/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1373,7 +1592,10 @@ var data = [
       "startStation": "Lakefront Trail & Bryn Mawr Ave",
       "endStation": "Lake Shore Dr & Wellington Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/26/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1392,7 +1614,10 @@ var data = [
       "startStation": "Lake Shore Dr & Wellington Ave",
       "endStation": "Clark St & Wrightwood Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/26/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1411,7 +1636,10 @@ var data = [
       "startStation": "Lakeview Ave & Fullerton Pkwy",
       "endStation": "Hampden Ct & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/26/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1430,7 +1658,10 @@ var data = [
       "startStation": "Orleans St & Merchandise Mart Plaza",
       "endStation": "Orleans St & Merchandise Mart Plaza",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "01/09/2014"
+      ]
     },
     "coordinates": [
       [
@@ -1449,7 +1680,11 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Clark St & Randolph St",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "12/03/2013",
+        "07/06/2016"
+      ]
     },
     "coordinates": [
       [
@@ -1468,7 +1703,10 @@ var data = [
       "startStation": "Indiana Ave & Roosevelt Rd",
       "endStation": "Fort Dearborn Dr & 31st St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/04/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1487,7 +1725,10 @@ var data = [
       "startStation": "Fort Dearborn Dr & 31st St",
       "endStation": "Shore Dr & 55th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/04/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1506,7 +1747,10 @@ var data = [
       "startStation": "Shore Dr & 55th St",
       "endStation": "Woodlawn Ave & 55th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/04/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1525,7 +1769,10 @@ var data = [
       "startStation": "State St & Van Buren St",
       "endStation": "Daley Center Plaza",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1544,7 +1791,10 @@ var data = [
       "startStation": "Orleans St & Merchandise Mart Plaza",
       "endStation": "Larrabee St & Kingsbury St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1563,7 +1813,10 @@ var data = [
       "startStation": "Michigan Ave & Washington St",
       "endStation": "Michigan Ave & Congress Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1582,7 +1835,10 @@ var data = [
       "startStation": "Orleans St & Merchandise Mart Plaza",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/19/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1601,7 +1857,10 @@ var data = [
       "startStation": "Daley Center Plaza",
       "endStation": "Larrabee St & Kingsbury St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/20/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1620,7 +1879,10 @@ var data = [
       "startStation": "LaSalle St & Illinois St",
       "endStation": "LaSalle St & Illinois St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1639,7 +1901,10 @@ var data = [
       "startStation": "LaSalle St & Illinois St",
       "endStation": "Dearborn St & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1658,7 +1923,10 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "May St & Taylor St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1677,7 +1945,10 @@ var data = [
       "startStation": "May St & Taylor St",
       "endStation": "Hermitage Ave & Polk St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1696,7 +1967,10 @@ var data = [
       "startStation": "Blue Island Ave & 18th St",
       "endStation": "Damen Ave & Coulter St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1715,7 +1989,10 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "900 W Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/31/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1734,7 +2011,10 @@ var data = [
       "startStation": "900 W Harrison St",
       "endStation": "Morgan St & Lake St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/31/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1753,7 +2033,10 @@ var data = [
       "startStation": "Dearborn St & Monroe St",
       "endStation": "Dearborn St & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "11/06/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1772,7 +2055,12 @@ var data = [
       "startStation": "Indiana Ave & Roosevelt Rd",
       "endStation": "Lake Shore Dr & Ohio St",
       "totalTrips": 1,
-      "oppositeTrips": 2
+      "oppositeTrips": 2,
+      "dates": [
+        "11/09/2013",
+        "11/09/2013",
+        "09/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1791,7 +2079,10 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Racine Ave & Congress Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "11/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1810,7 +2101,10 @@ var data = [
       "startStation": "State St & Kinzie St",
       "endStation": "Wabash Ave & 8th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "11/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1829,7 +2123,10 @@ var data = [
       "startStation": "Loomis St & Taylor St (*)",
       "endStation": "Loomis St & Jackson Blvd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/02/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1848,7 +2145,10 @@ var data = [
       "startStation": "Loomis St & Jackson Blvd",
       "endStation": "Damen Ave & Cortland St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/02/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1867,7 +2167,10 @@ var data = [
       "startStation": "Damen Ave & Pierce Ave",
       "endStation": "Damen Ave & Chicago Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/02/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1886,7 +2189,10 @@ var data = [
       "startStation": "Halsted St & 18th St",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/03/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1905,7 +2211,11 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Paulina St & Montrose Ave",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "10/04/2013",
+        "09/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1924,7 +2234,10 @@ var data = [
       "startStation": "Damen Ave & Cullerton St",
       "endStation": "Halsted St & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/05/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1943,7 +2256,10 @@ var data = [
       "startStation": "Halsted St & 18th St",
       "endStation": "Wabash Ave & 16th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/05/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1962,7 +2278,10 @@ var data = [
       "startStation": "Lake Shore Dr & Wellington Ave",
       "endStation": "Wilton Ave & Belmont Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/06/2013"
+      ]
     },
     "coordinates": [
       [
@@ -1981,7 +2300,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Theater on the Lake",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/07/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2000,7 +2322,10 @@ var data = [
       "startStation": "Michigan Ave & Oak St",
       "endStation": "Lake Shore Dr & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/07/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2019,7 +2344,10 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Museum Campus",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/07/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2038,7 +2366,10 @@ var data = [
       "startStation": "Clinton St & 18th St",
       "endStation": "Morgan St & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/09/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2057,7 +2388,10 @@ var data = [
       "startStation": "Indiana Ave & Roosevelt Rd",
       "endStation": "Michigan Ave & Oak St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2076,7 +2410,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Clarendon Ave & Leland Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2095,7 +2432,10 @@ var data = [
       "startStation": "Clarendon Ave & Leland Ave",
       "endStation": "Clark St & Winnemac Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2114,7 +2454,10 @@ var data = [
       "startStation": "Clinton St & 18th St",
       "endStation": "Racine Ave & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/13/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2133,7 +2476,10 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "900 W Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2152,7 +2498,10 @@ var data = [
       "startStation": "900 W Harrison St",
       "endStation": "Hermitage Ave & Polk St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2171,7 +2520,10 @@ var data = [
       "startStation": "Indiana Ave & Roosevelt Rd",
       "endStation": "McClurg Ct & Illinois St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2190,7 +2542,10 @@ var data = [
       "startStation": "Wabash Ave & Grand Ave",
       "endStation": "Wabash Ave & 8th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2209,7 +2564,10 @@ var data = [
       "startStation": "Greenwood Ave & 47th St",
       "endStation": "Wabash Ave & 16th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/16/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2228,7 +2586,10 @@ var data = [
       "startStation": "Wabash Ave & 16th St",
       "endStation": "Wabash Ave & 16th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/16/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2247,7 +2608,10 @@ var data = [
       "startStation": "Blue Island Ave & 18th St",
       "endStation": "Blue Island Ave & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/16/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2266,7 +2630,10 @@ var data = [
       "startStation": "Racine Ave & Congress Pkwy",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2285,7 +2652,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Broadway & Waveland Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2304,7 +2674,10 @@ var data = [
       "startStation": "Morgan St & 18th St",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2323,7 +2696,10 @@ var data = [
       "startStation": "Greenwood Ave & 47th St",
       "endStation": "Lake Shore Dr & Monroe St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/04/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2342,7 +2718,11 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Lincoln Ave & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "09/04/2013",
+        "09/04/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2361,7 +2741,10 @@ var data = [
       "startStation": "Wilton Ave & Diversey Pkwy",
       "endStation": "Lincoln Ave & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/05/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2380,7 +2763,10 @@ var data = [
       "startStation": "Lincoln Ave & Diversey Pkwy",
       "endStation": "Racine Ave & Belmont Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/05/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2399,7 +2785,10 @@ var data = [
       "startStation": "Blue Island Ave & 18th St",
       "endStation": "Damen Ave & Cullerton St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/09/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2418,7 +2807,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Sheffield Ave & Wellington Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2437,7 +2829,10 @@ var data = [
       "startStation": "Clark St & Wellington Ave",
       "endStation": "Clark St & Wellington Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2456,7 +2851,10 @@ var data = [
       "startStation": "Clark St & Wellington Ave",
       "endStation": "Damen Ave & Cortland St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2475,7 +2873,11 @@ var data = [
       "startStation": "Damen Ave & Cortland St",
       "endStation": "California Ave & Milwaukee Ave",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "09/10/2013",
+        "08/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2494,7 +2896,10 @@ var data = [
       "startStation": "California Ave & Milwaukee Ave",
       "endStation": "Noble St & Milwaukee Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2513,7 +2918,10 @@ var data = [
       "startStation": "Noble St & Milwaukee Ave",
       "endStation": "Orleans St & Merchandise Mart Plaza",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/10/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2532,7 +2940,10 @@ var data = [
       "startStation": "State St & Randolph St",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2551,7 +2962,10 @@ var data = [
       "startStation": "Lake Shore Dr & Ohio St",
       "endStation": "Sheffield Ave & Addison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2570,7 +2984,10 @@ var data = [
       "startStation": "Wilton Ave & Diversey Pkwy",
       "endStation": "Sheffield Ave & Fullerton Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2589,7 +3006,10 @@ var data = [
       "startStation": "Wabash Ave & 16th St",
       "endStation": "State St & Harrison St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/12/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2608,7 +3028,10 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "Ashland Ave & Division St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2627,7 +3050,10 @@ var data = [
       "startStation": "Ashland Ave & Division St",
       "endStation": "Michigan Ave & Washington St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/14/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2646,7 +3072,10 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "Franklin St & Lake St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/16/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2665,7 +3094,10 @@ var data = [
       "startStation": "Orleans St & Merchandise Mart Plaza",
       "endStation": "Greenwood Ave & 47th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/16/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2684,7 +3116,10 @@ var data = [
       "startStation": "Greenwood Ave & 47th St",
       "endStation": "State St & 19th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/23/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2703,7 +3138,10 @@ var data = [
       "startStation": "State St & 19th St",
       "endStation": "Halsted St & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/23/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2722,7 +3160,10 @@ var data = [
       "startStation": "Blue Island Ave & 18th St",
       "endStation": "Wabash Ave & 16th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/23/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2741,7 +3182,10 @@ var data = [
       "startStation": "Morgan St & 18th St",
       "endStation": "Blue Island Ave & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2760,7 +3204,10 @@ var data = [
       "startStation": "Clark St & Randolph St",
       "endStation": "Clark St & Randolph St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2779,7 +3226,10 @@ var data = [
       "startStation": "Michigan Ave & 14th St",
       "endStation": "Clinton St & 18th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2798,7 +3248,10 @@ var data = [
       "startStation": "Halsted St & 18th St",
       "endStation": "Wabash Ave & 8th St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2817,7 +3270,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Broadway & Belmont Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2836,7 +3292,10 @@ var data = [
       "startStation": "Broadway & Belmont Ave",
       "endStation": "Pine Grove Ave & Waveland Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2855,7 +3314,10 @@ var data = [
       "startStation": "Broadway & Barry Ave",
       "endStation": "Theater on the Lake",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2874,7 +3336,10 @@ var data = [
       "startStation": "Indiana Ave & Roosevelt Rd",
       "endStation": "Cannon Dr & Fullerton Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2893,7 +3358,10 @@ var data = [
       "startStation": "Cannon Dr & Fullerton Ave",
       "endStation": "Sheridan Rd & Montrose Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2912,7 +3380,10 @@ var data = [
       "startStation": "Sheridan Rd & Montrose Ave",
       "endStation": "Paulina St & Montrose Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2931,7 +3402,10 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Indiana Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2950,7 +3424,10 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Dearborn St & Adams St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2969,7 +3446,10 @@ var data = [
       "startStation": "Michigan Ave & Jackson Blvd",
       "endStation": "Lakeview Ave & Fullerton Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -2988,7 +3468,10 @@ var data = [
       "startStation": "Lakeview Ave & Fullerton Pkwy",
       "endStation": "Lake Shore Dr & Diversey Pkwy",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3007,7 +3490,10 @@ var data = [
       "startStation": "Lake Shore Dr & Diversey Pkwy",
       "endStation": "Sheridan Rd & Montrose Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/28/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3026,7 +3512,10 @@ var data = [
       "startStation": "Halsted St & 18th St",
       "endStation": "Indiana Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3045,7 +3534,10 @@ var data = [
       "startStation": "Museum Campus",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/03/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3064,7 +3556,10 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Clark St & North Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/06/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3083,7 +3578,10 @@ var data = [
       "startStation": "Clark St & North Ave",
       "endStation": "Clark St & North Ave",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/06/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3102,7 +3600,10 @@ var data = [
       "startStation": "Greenwood Ave & 47th St",
       "endStation": "Michigan Ave & Oak St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/07/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3121,7 +3622,11 @@ var data = [
       "startStation": "Michigan Ave & Oak St",
       "endStation": "Lake Shore Dr & Wellington Ave",
       "totalTrips": 1,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "08/07/2013",
+        "08/20/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3140,7 +3645,10 @@ var data = [
       "startStation": "Cannon Dr & Fullerton Ave",
       "endStation": "Lake Shore Dr & Ohio St",
       "totalTrips": 1,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/07/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3159,7 +3667,11 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Orleans St & Merchandise Mart Plaza",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/17/2013",
+        "12/19/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3178,7 +3690,12 @@ var data = [
       "startStation": "Wabash Ave & Roosevelt Rd",
       "endStation": "Clinton St & 18th St",
       "totalTrips": 2,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "10/03/2013",
+        "10/09/2013",
+        "10/13/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3197,7 +3714,11 @@ var data = [
       "startStation": "Hermitage Ave & Polk St",
       "endStation": "Paulina St & 18th St",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/30/2013",
+        "10/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3216,7 +3737,11 @@ var data = [
       "startStation": "Clinton St & 18th St",
       "endStation": "Blue Island Ave & 18th St",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/03/2013",
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3235,7 +3760,12 @@ var data = [
       "startStation": "Wabash Ave & Roosevelt Rd",
       "endStation": "Halsted St & 18th St",
       "totalTrips": 2,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "12/16/2013",
+        "10/02/2013",
+        "10/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3254,7 +3784,16 @@ var data = [
       "startStation": "Halsted St & 18th St",
       "endStation": "Blue Island Ave & 18th St",
       "totalTrips": 2,
-      "oppositeTrips": 5
+      "oppositeTrips": 5,
+      "dates": [
+        "12/16/2013",
+        "10/03/2013",
+        "10/13/2013",
+        "10/21/2013",
+        "09/23/2013",
+        "09/25/2013",
+        "09/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3273,7 +3812,11 @@ var data = [
       "startStation": "Broadway & Berwyn Ave",
       "endStation": "Broadway & Wilson Ave",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/30/2016",
+        "06/30/2016"
+      ]
     },
     "coordinates": [
       [
@@ -3292,7 +3835,11 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "Ogden Ave & Chicago Ave",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "08/23/2013",
+        "08/29/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3311,7 +3858,12 @@ var data = [
       "startStation": "Ogden Ave & Chicago Ave",
       "endStation": "Dearborn St & Monroe St",
       "totalTrips": 2,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "12/20/2013",
+        "12/27/2013",
+        "10/02/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3330,7 +3882,11 @@ var data = [
       "startStation": "Michigan Ave & Oak St",
       "endStation": "Theater on the Lake",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/07/2013",
+        "10/11/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3349,7 +3905,11 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Wabash Ave & 8th St",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "11/07/2013",
+        "11/19/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3368,7 +3928,12 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Broadway & Argyle St",
       "totalTrips": 2,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "06/11/2016",
+        "05/21/2016",
+        "07/02/2016"
+      ]
     },
     "coordinates": [
       [
@@ -3387,7 +3952,12 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "Dearborn St & Adams St",
       "totalTrips": 2,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "09/10/2013",
+        "09/10/2013",
+        "08/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3406,7 +3976,11 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Franklin St & Lake St",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/24/2013",
+        "09/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3425,7 +3999,11 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Clark St & Winnemac Ave",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "06/22/2016",
+        "07/15/2016"
+      ]
     },
     "coordinates": [
       [
@@ -3444,7 +4022,11 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Daley Center Plaza",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/20/2013",
+        "10/04/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3463,7 +4045,12 @@ var data = [
       "startStation": "Theater on the Lake",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 2,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "09/04/2013",
+        "09/10/2013",
+        "08/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3482,7 +4069,13 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Dearborn St & Monroe St",
       "totalTrips": 2,
-      "oppositeTrips": 2
+      "oppositeTrips": 2,
+      "dates": [
+        "12/06/2013",
+        "12/20/2013",
+        "12/21/2013",
+        "10/02/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3501,7 +4094,11 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "Michigan Ave & Washington St",
       "totalTrips": 2,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "05/19/2016",
+        "12/12/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3520,7 +4117,14 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Theater on the Lake",
       "totalTrips": 3,
-      "oppositeTrips": 2
+      "oppositeTrips": 2,
+      "dates": [
+        "10/04/2013",
+        "09/04/2013",
+        "09/25/2013",
+        "09/25/2013",
+        "08/24/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3539,7 +4143,14 @@ var data = [
       "startStation": "Lake Shore Dr & Ohio St",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 3,
-      "oppositeTrips": 2
+      "oppositeTrips": 2,
+      "dates": [
+        "08/07/2013",
+        "08/12/2013",
+        "08/13/2013",
+        "08/13/2013",
+        "08/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3558,7 +4169,12 @@ var data = [
       "startStation": "State St & Harrison St",
       "endStation": "State St & Harrison St",
       "totalTrips": 3,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/05/2013",
+        "09/10/2013",
+        "08/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3577,7 +4193,14 @@ var data = [
       "startStation": "Lake Shore Dr & Ohio St",
       "endStation": "Lake Shore Dr & Wellington Ave",
       "totalTrips": 3,
-      "oppositeTrips": 2
+      "oppositeTrips": 2,
+      "dates": [
+        "08/07/2013",
+        "08/07/2013",
+        "08/08/2013",
+        "08/12/2013",
+        "08/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3596,7 +4219,13 @@ var data = [
       "startStation": "Blue Island Ave & 18th St",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 3,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "10/09/2013",
+        "10/16/2013",
+        "09/24/2013",
+        "09/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3615,7 +4244,13 @@ var data = [
       "startStation": "Clark St & Berwyn Ave",
       "endStation": "Broadway & Berwyn Ave",
       "totalTrips": 3,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "06/15/2016",
+        "05/18/2016",
+        "05/27/2016",
+        "07/04/2016"
+      ]
     },
     "coordinates": [
       [
@@ -3634,7 +4269,12 @@ var data = [
       "startStation": "Wabash Ave & 8th St",
       "endStation": "LaSalle St & Illinois St",
       "totalTrips": 3,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "12/27/2013",
+        "11/19/2013",
+        "11/21/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3653,7 +4293,13 @@ var data = [
       "startStation": "State St & Kinzie St",
       "endStation": "State St & Harrison St",
       "totalTrips": 4,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "09/10/2013",
+        "08/26/2013",
+        "08/27/2013",
+        "08/29/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3672,7 +4318,14 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Lake Shore Dr & Wellington Ave",
       "totalTrips": 5,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/06/2013",
+        "08/09/2013",
+        "08/10/2013",
+        "08/11/2013",
+        "08/20/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3691,7 +4344,14 @@ var data = [
       "startStation": "Lake Shore Dr & Monroe St",
       "endStation": "Lake Shore Dr & Ohio St",
       "totalTrips": 5,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/07/2013",
+        "10/28/2013",
+        "09/11/2013",
+        "09/14/2013",
+        "08/26/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3710,7 +4370,15 @@ var data = [
       "startStation": "Wabash Ave & Roosevelt Rd",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 6,
-      "oppositeTrips": 0
+      "oppositeTrips": 0,
+      "dates": [
+        "10/09/2013",
+        "10/09/2013",
+        "10/13/2013",
+        "08/06/2013",
+        "08/24/2013",
+        "08/30/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3729,7 +4397,16 @@ var data = [
       "startStation": "Indiana Ave & Roosevelt Rd",
       "endStation": "Lake Shore Dr & Monroe St",
       "totalTrips": 6,
-      "oppositeTrips": 1
+      "oppositeTrips": 1,
+      "dates": [
+        "10/04/2013",
+        "10/06/2013",
+        "10/07/2013",
+        "10/28/2013",
+        "09/11/2013",
+        "09/25/2013",
+        "09/25/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3748,7 +4425,20 @@ var data = [
       "startStation": "Wabash Ave & Roosevelt Rd",
       "endStation": "Lake Shore Dr & Monroe St",
       "totalTrips": 8,
-      "oppositeTrips": 3
+      "oppositeTrips": 3,
+      "dates": [
+        "09/14/2013",
+        "08/06/2013",
+        "08/06/2013",
+        "08/09/2013",
+        "08/10/2013",
+        "08/11/2013",
+        "08/11/2013",
+        "08/23/2013",
+        "08/24/2013",
+        "08/24/2013",
+        "08/26/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3767,7 +4457,31 @@ var data = [
       "startStation": "Wabash Ave & 16th St",
       "endStation": "Wabash Ave & Roosevelt Rd",
       "totalTrips": 11,
-      "oppositeTrips": 11
+      "oppositeTrips": 11,
+      "dates": [
+        "12/08/2013",
+        "12/23/2013",
+        "12/26/2013",
+        "11/21/2013",
+        "11/21/2013",
+        "10/11/2013",
+        "10/18/2013",
+        "10/18/2013",
+        "09/04/2013",
+        "09/06/2013",
+        "09/06/2013",
+        "09/12/2013",
+        "09/13/2013",
+        "09/13/2013",
+        "09/23/2013",
+        "08/09/2013",
+        "08/09/2013",
+        "08/19/2013",
+        "08/26/2013",
+        "08/26/2013",
+        "08/27/2013",
+        "08/27/2013"
+      ]
     },
     "coordinates": [
       [
@@ -3786,7 +4500,25 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Broadway & Berwyn Ave",
       "totalTrips": 12,
-      "oppositeTrips": 4
+      "oppositeTrips": 4,
+      "dates": [
+        "06/02/2016",
+        "06/04/2016",
+        "06/18/2016",
+        "06/23/2016",
+        "06/30/2016",
+        "05/20/2016",
+        "05/20/2016",
+        "05/21/2016",
+        "05/21/2016",
+        "05/23/2016",
+        "05/27/2016",
+        "07/03/2016",
+        "07/04/2016",
+        "07/08/2016",
+        "07/10/2016",
+        "07/12/2016"
+      ]
     },
     "coordinates": [
       [
@@ -3805,7 +4537,30 @@ var data = [
       "startStation": "Broadway & Ridge Ave",
       "endStation": "Clark St & Berwyn Ave",
       "totalTrips": 17,
-      "oppositeTrips": 4
+      "oppositeTrips": 4,
+      "dates": [
+        "06/03/2016",
+        "06/03/2016",
+        "06/08/2016",
+        "06/15/2016",
+        "06/19/2016",
+        "06/23/2016",
+        "05/22/2016",
+        "05/22/2016",
+        "05/25/2016",
+        "05/27/2016",
+        "07/02/2016",
+        "07/04/2016",
+        "07/08/2016",
+        "07/08/2016",
+        "07/10/2016",
+        "07/12/2016",
+        "07/16/2016",
+        "07/18/2016",
+        "07/20/2016",
+        "07/20/2016",
+        "07/21/2016"
+      ]
     },
     "coordinates": [
       [
