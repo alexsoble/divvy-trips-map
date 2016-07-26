@@ -57,14 +57,14 @@ var tripsData = L.geoJson(data, {
   onEachFeature: onEachFeature
 });
 
-var sliderControl = L.control.sliderControl({
-  position: "bottomright", layer: tripsData
-});
+// var sliderControl = L.control.sliderControl({
+//   position: "bottomright", layer: tripsData
+// });
 
-//Make sure to add the slider to the map ;-)
-map.addControl(sliderControl);
+// Make sure to add the slider to the map ;-)
+// map.addControl(sliderControl);
 
 //And initialize the slider
-sliderControl.startSlider();
+// sliderControl.startSlider();
 
 tripsData.addTo(map);
