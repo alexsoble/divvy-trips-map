@@ -4,7 +4,7 @@ var layer = new L.StamenTileLayer("toner-lite");
 map.addLayer(layer);
 
 var myStyle = {
-  "color": '#660054',
+  "color": '#ff7800',
   "weight": 5.5,
   "opacity": 0.5
 };
