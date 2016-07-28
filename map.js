@@ -29,7 +29,10 @@ mapTitle = L.control({ position: 'topright' });
 
 mapTitle.onAdd = function (map) {
   this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-  this._div.innerHTML = '<div id="title">DivvyBrags Map</div><div id="subtitle">Alex Soble</div>';
+  this._div.innerHTML = '<div id="title">DivvyBrags Map</div>';
+  this._div.innerHTML += '<div id="subtitle">Alex Soble</div>';
+  this._div.innerHTML += '<div id="github-link"><a href="https://github.com/alexsoble/divvy-trips-map">(Code here.)</a></div>';
+
   return this._div;
 };
 
