@@ -1,3 +1,4 @@
+var geoJson;
 var map = L.map('map').setView([41.89, -87.61], 12);
 
 var layer = new L.StamenTileLayer("toner-lite");
@@ -19,11 +20,27 @@ function highlightFeature(e) {
 
 
   info.update({ infoText: infoText });
+
+  var layer = e.target;
+
+  layer.setStyle({
+    color: '#03f',
+    opacity: 0.6
+  });
+
+  if (!L.Browser.ie && !L.Browser.opera) {
+    layer.bringToFront();
+  }
+}
+
+function resetHighlight(e) {
+  geoJson.resetStyle(e.target);
 }
 
 function onEachFeature(feature, layer) {
   layer.on({
     mouseover: highlightFeature,
+    mouseout: resetHighlight,
   });
 }
 
@@ -52,10 +69,11 @@ mapTitle.onAdd = function (map) {
 
 mapTitle.addTo(map);
 
-var tripsData = L.geoJson(data, {
+var geoJson = L.geoJson(data, {
   style: myStyle,
   onEachFeature: onEachFeature
 });
+
 
 // var sliderControl = L.control.sliderControl({
 //   position: "bottomright", layer: tripsData
@@ -67,4 +85,4 @@ var tripsData = L.geoJson(data, {
 //And initialize the slider
 // sliderControl.startSlider();
 
-tripsData.addTo(map);
+geoJson.addTo(map);
