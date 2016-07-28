@@ -28,6 +28,7 @@ function resetHighlight(e) {
 function onEachFeature(feature, layer) {
   layer.on({
     mouseover: highlightFeature,
+    click: highlightFeature,
     mouseout: resetHighlight,
   });
 }
